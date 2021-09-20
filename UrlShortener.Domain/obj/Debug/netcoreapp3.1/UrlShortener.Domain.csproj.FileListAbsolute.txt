@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\bin\Debug\netcoreapp3.1\UrlShortener.Domain.deps.json
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\bin\Debug\netcoreapp3.1\UrlShortener.Domain.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\bin\Debug\netcoreapp3.1\UrlShortener.Domain.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Domain\obj\Debug\netcoreapp3.1\UrlShortener.Domain.pdb

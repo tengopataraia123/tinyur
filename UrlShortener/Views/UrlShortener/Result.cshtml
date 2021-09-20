@@ -1,0 +1,34 @@
+﻿@model UrlShortener.ViewModels.Url
+
+<section id="content">
+    <h1>Your shortened URL</h1>
+    <p>Copy the shortened link and share it in messages, texts, posts, websites and other locations.</p>
+</section>
+
+<script type="text/javascript">
+    function myFunction() {
+        var text = document.getElementById("shortUrl");
+        text.select();
+
+        navigator.clipboard.writeText(text.value);
+
+        var info = document.getElementById("balloon");
+        info.style.display = "block";
+    }
+</script>
+
+<section id="urlbox">
+    <br><br>
+    <div id="formurl">
+        <input id="shortUrl" type="text" class="form-text" value="https://localhost:44340/@Model.Id">
+        <div id="formbutton">
+            <input type="button" onclick="myFunction();" class="copy" value="Copy URL">
+        </div>
+    </div>
+    <div id="formurl" style="max-width: 400px; display: block;">
+        <div id="balloon" style="display: none;">URL Copied</div>
+    </div>
+    <p class="boxtextleft">
+        Long URL: <a href="@Model.DestinationUrl" target="_blank">@Model.DestinationUrl</a><br><br>
+    </p>
+</section>

@@ -1,0 +1,91 @@
+﻿
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>URL Shortener</title>
+    <meta name="description" content="ShortURL is a url shortener to reduce a long link. Use our tool to shorten links and then share them, in addition you can monitor traffic statistics.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="~/css/site.css" rel="stylesheet" />
+    <meta property="og:title" content="ShortURL - URL Shortener">
+    <meta property="og:type" content="website">
+    <script src="~/js/script.min.js" type="c87770b9d441cf3757faea50-text/javascript"></script>
+</head>
+<body>
+    <header>
+        <div id="logo"><a class="logo">Short URL</a></div>
+    </header>
+    <main>
+        <section id="urlbox">
+            @RenderBody()
+        </section>
+        <div id="adbox"><ins class="hstpnetworkads" style="display: none;"></ins></div>
+        <section id="content">
+            <h2>Simple and fast URL shortener!</h2>
+            <p>ShortURL allows to reduce long links from <a href="https://www.instagram.com/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/" target="_blank">YouTube</a>, <a href="https://www.twitter.com/" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/" target="_blank">Linked In</a> and top sites on the Internet, just paste the long URL and click the Shorten URL button. On the next screen, copy the shortened URL and share it on websites, chat and e-mail. After shortening the URL, check <a href="url-click-counter.php">how many clicks it received</a>.</p>
+            <h2>Shorten, share and track</h2>
+            <p>Your shortened URLs can be used in publications, documents, advertisements, blogs, forums, instant messages, and other locations. Track statistics for your business and projects by monitoring the number of hits from your URL with the click counter, you do not have to register.</p>
+        </section>
+        <div id="box">
+            <div id="row">
+                <div id="column">
+                    <div class="icon"><img src="img/icon-like.png"></div>
+                    <h3 class="aligncenter">Easy</h3>
+                    <p class="aligncenter">ShortURL is easy and fast, enter the long link to get your shortened link</p>
+                </div>
+                <div id="column">
+                    <div class="icon"><img src="img/icon-url.png"></div>
+                    <h3 class="aligncenter">Shortened</h3>
+                    <p class="aligncenter">Use any link, no matter what size, ShortURL always shortens</p>
+                </div>
+                <div id="column">
+                    <div class="icon"><img src="img/icon-secure.png"></div>
+                    <h3 class="aligncenter">Secure</h3>
+                    <p class="aligncenter">It is fast and secure, our service have HTTPS protocol and data encryption</p>
+                </div>
+                <div id="column">
+                    <div class="icon"><img src="img/icon-statistics.png"></div>
+                    <h3 class="aligncenter">Statistics</h3>
+                    <p class="aligncenter">Check the amount of clicks that your shortened url received</p>
+                </div>
+                <div id="column">
+                    <div class="icon"><img src="img/icon-unique.png"></div>
+                    <h3 class="aligncenter">Reliable</h3>
+                    <p class="aligncenter">All links that try to disseminate spam, viruses and malware are deleted</p>
+                </div>
+                <div id="column">
+                    <div class="icon"><img src="img/icon-responsive.png"></div>
+                    <h3 class="aligncenter">Devices</h3>
+                    <p class="aligncenter">Compatible with smartphones, tablets and desktop</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31391210-44" type="278a28b7dffe0ab05f7d7d2c-text/javascript"></script>
+    <script type="278a28b7dffe0ab05f7d7d2c-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-31391210-44');
+    </script>
+    <script data-cfasync="false" async src="/sw.js"></script>
+    <script data-cfasync="false" id="clevernt" type="text/javascript">
+        (function (document, window) {
+            var c = document.createElement("script");
+            c.type = "text/javascript"; c.async = !0; c.id = "CleverNTLoader44448"; c.setAttribute("data-target", window.name); c.setAttribute("data-callback", "put-your-callback-macro-here");
+            c.src = "//clevernt.com/scripts/42b1dbb9ad8f38d3871fc5df40fa93fc.min.js?20200612=" + Math.floor((new Date).getTime());
+            var a = !1;
+            try {
+                a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+            } catch (e) {
+                a = !1;
+            }
+            a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+            a.parentNode.insertBefore(c, a);
+        })(document, window);
+    </script>
+    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="278a28b7dffe0ab05f7d7d2c-|49" defer=""></script>
+</body>
+</html>

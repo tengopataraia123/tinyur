@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\bin\Debug\netcoreapp3.1\UrlShortener.Persistence.deps.json
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\bin\Debug\netcoreapp3.1\UrlShortener.Persistence.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\bin\Debug\netcoreapp3.1\UrlShortener.Persistence.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\bin\Debug\netcoreapp3.1\UrlShortener.Domain.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\bin\Debug\netcoreapp3.1\UrlShortener.Domain.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.AssemblyInfo.cs
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.csproj.CopyComplete
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Persistence\obj\Debug\netcoreapp3.1\UrlShortener.Persistence.pdb

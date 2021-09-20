@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Services.deps.json
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Services.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Services.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Data.EF.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Domain.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Data.EF.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\bin\Debug\netcoreapp3.1\UrlShortener.Domain.pdb
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.AssemblyInfo.cs
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.csproj.CopyComplete
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.dll
+C:\Users\user\Desktop\TengizPataraia\Day_52\UrlShortener\UrlShortener.Services\obj\Debug\netcoreapp3.1\UrlShortener.Services.pdb
